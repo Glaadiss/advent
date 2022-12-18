@@ -18,3 +18,4 @@ with open("./day4/input.txt") as input:
             acc += 1
 
     print(acc)
+
